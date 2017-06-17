@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/TCP_Client/Client.java=UTF-8
+encoding//src/TCP_Client/MessageClient.java=UTF-8
+encoding//src/TCP_Server/MessageServer.java=UTF-8
+encoding//src/TCP_Server/Server.java=UTF-8
